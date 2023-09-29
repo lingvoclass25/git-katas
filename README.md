@@ -1,34 +1,15 @@
 # Git Katas
 
-## Purpose of Git Katas
+## Что это
 
+В этом репозитории находятся задачи, которые помогут вам лучше познакомиться с гит и научиться основным операциям в нем. 
 
-
-This repository is a collection of Git exercises.
-The concept is stolen without shame from [Schauderhaft.de](http://blog.schauderhaft.de/gitkata/).
-Unfortunately, they have not maintained the system - and we need more good Git exercises.
-
-The exercises are designed for use when we are teaching Git courses. You should be able to use them as self-contained exercises that will allow you to keep your Git skills sharp.
-
-Exercises starting with _basic_ are entry-level - other exercises vary greatly in difficulty.
-
-To get an overview of the exercises in here look in [Overview.md](Overview.md).
-
-Feel free to use these exercises, that's why they're public!
-
-## Suggested Learning Path
-
-If you are coming to this repository for some basic Git knowledge, we recommend going through the exercises in the following order.
-This is the order that Jan Krag at Praqma teaches Git and might change over time. There are more exercises than this, but these should take you through
-everything you need to be able to use Git effectively in your day to day life.
-
+## Список заданий
 - [Basic Commits](./basic-commits/README.md)
 - [Basic Staging](./basic-staging/README.md)
-- [Investigation](./investigation/README.md)
 - [Basic Branching](./basic-branching/README.md)
 - [Fast Forward Merge](./ff-merge/README.md)
 - [3 way Merge](./3-way-merge/README.md)
-- [Merge Mergesort](./merge-mergesort/README.md)
 - [Rebase Branch](./rebase-branch/README.md)
 - [Basic Revert](./basic-revert/README.md)
 - [Reset](./reset/README.md)
@@ -37,7 +18,17 @@ everything you need to be able to use Git effectively in your day to day life.
 - [Reorder the History](./reorder-the-history/README.md)
 - [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
 - [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
-- [Basic Stashing](./basic-stashing/README.md)
+- [Commit on wrong branch](./commit-on-wrong-branch/README.md)
+## Как сдавать
+
+
+## Suggested Learning Path
+
+If you are coming to this repository for some basic Git knowledge, we recommend going through the exercises in the following order.
+This is the order that Jan Krag at Praqma teaches Git and might change over time. There are more exercises than this, but these should take you through
+everything you need to be able to use Git effectively in your day to day life.
+
+
 
 See [Overview.md](Overview.md) for a more complete list and suggested order.
 
